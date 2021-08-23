@@ -1,15 +1,13 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
-  <p align="center">
-<a href="#"><img title="JulieMwol" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<p align="center">
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-farhan-dqz/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/farhan-dqz"><img title="Author" src="https://avatars.githubusercontent.com/u/89237109?v=4"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to make it public
+Project created by <a href="https://github.com/Brutal-x7">Brutal</a> to make it public
     <br>
        | © |
         Reserved |
