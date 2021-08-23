@@ -5,6 +5,9 @@
   <p align="center">
 <a href="https://github.com/farhan-dqz"><img title="Author" src="https://avatars.githubusercontent.com/u/89237109?v=4"></a>
 </p>
+<p align="center">
+<a href="#"><img title="Anu-Mwol" src="https://img.shields.io/badge/Anu-mwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
 </div>
 <p align="center">
 Project created by <a href="https://github.com/Brutal-x7">Brutal</a> to make it public
