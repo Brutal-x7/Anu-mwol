@@ -10,7 +10,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Brutal-x7">Brutal</a> to make it public
+Project created by <a href="https://github.com/Brutal-x7">Brutal-sir</a> to make it public
     <br>
        | © |
         Reserved |
